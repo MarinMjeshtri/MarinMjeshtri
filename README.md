@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marin Mjeshtri</h1>
+<h1 align="center">Olaaaaa 👋, I'm Marin Mjeshtri</h1>
 <h3 align="center">Full-Stack Developer based in Albania 🇦🇱</h3>
 
 <p align="center">
@@ -11,6 +11,7 @@
 
 I build web applications from front to back — comfortable across the whole stack, from UI design in Figma to server-side logic and databases. Currently expanding into Node.js, MongoDB, and Python.
 
+- 💼 Strong command of **Microsoft Office**, with a focus on Excel for data work and analysis
 - 🌱 Currently learning **Node.js**, **MongoDB**, and **Python**
 - 📫 Reach me at **marinmjeshtrima@gmail.com**
 - ⚡ Fun fact: I spend more hours walking than sleeping
@@ -25,7 +26,7 @@ I build web applications from front to back — comfortable across the whole sta
 
 ---
 
-### 🗣️ Languages I Know
+### 🗣️🔥🔥🔥🔥 Languages I Know
 
 #### 🌐 Web
 <p>
@@ -58,10 +59,12 @@ I build web applications from front to back — comfortable across the whole sta
 <p>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/> 🐺
 </p>
 
 ---
+
+#### 🤖 Non-heay
 
 ### 📈 Stats
 
