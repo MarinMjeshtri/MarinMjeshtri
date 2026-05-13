@@ -66,7 +66,7 @@ I build web applications from front to back — comfortable across the whole sta
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marinsucks&show_icons=true&locale=en&layout=compact&theme=shadow_green" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarinMjeshtri&show_icons=true&locale=en&layout=compact&theme=shadow_green" alt="Most used languages" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ I build web applications from front to back — comfortable across the whole sta
 ### 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=marinsucks&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=MarinMjeshtri&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </p>
 
 ---
