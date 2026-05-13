@@ -20,7 +20,7 @@ I build web applications from front to back — comfortable across the whole sta
 ### 🔥 Streak & Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=marinsucks&theme=shadow_green&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MarinMjeshtri&theme=shadow_green&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -59,14 +59,6 @@ I build web applications from front to back — comfortable across the whole sta
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
-</p>
-
----
-
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarinMjeshtri&show_icons=true&locale=en&layout=compact&theme=shadow_green" alt="Most used languages" />
 </p>
 
 ---
